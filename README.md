@@ -4,7 +4,7 @@
 <h2>👨‍💻 Information Technology Projects:</h2>
 - <b>Microsoft Azure</b>
 
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TevinAjw/configure-ad)
+  - [Creating a Resource Group within Microsoft Azure](https://github.com/TevinAjw/Creating-a-Resource-Group-in-Microsoft-Azure)
    
   - [Creating a Windows Virtual Machine within Microsoft Azure](https://github.com/TevinAjw/Creating-Windows-VM-with-Microsoft-Azure)
 
