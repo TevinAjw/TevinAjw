@@ -6,7 +6,7 @@
 
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/TevinAjw/configure-ad)
    
-  - [Creating a Windows Virtual Machin within Microsoft Azure](https://github.com/TevinAjw/Creating-Windows-VM-with-Microsoft-Azure)
+  - [Creating a Windows Virtual Machine within Microsoft Azure](https://github.com/TevinAjw/Creating-Windows-VM-with-Microsoft-Azure)
 
 
 <h2>🤳Connect with me:</h2>
